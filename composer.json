@@ -1,5 +1,5 @@
 {
-    "name": "cccc/example",
+    "name": "ccart/ccarttest1",
     "description": "My awesome example extension",
     "require": {
         "magento/magento-composer-installer": "*"
@@ -10,7 +10,7 @@
         "map": [
             [
                 "*",
-                "cccc/example"
+                "ccart/ccarttest1"
             ]
         ]
     }
